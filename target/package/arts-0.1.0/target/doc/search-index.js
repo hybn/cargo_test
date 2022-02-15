@@ -1,0 +1,4 @@
+var searchIndex = JSON.parse('{\
+"arts":{"doc":"Art","t":[0,0,13,13,13,4,13,13,4,13,11,11,11,11,11,11,11,11,11,11,11,11,11,11,5],"n":["kinds","utils","Blue","Green","Orange","PrimaryColor","Purple","Red","SecondColor","Yellow","borrow","borrow","borrow_mut","borrow_mut","from","from","into","into","try_from","try_from","try_into","try_into","type_id","type_id","mix"],"q":["arts","","arts::kinds","","","","","","","","","","","","","","","","","","","","","","arts::utils"],"d":["","","","","","","","","","","","","","","","","","","","","","","","",""],"i":[0,0,1,2,2,0,2,1,0,1,1,2,1,2,1,2,1,2,1,2,1,2,1,2,0],"f":[null,null,null,null,null,null,null,null,null,null,[[]],[[]],[[]],[[]],[[]],[[]],[[]],[[]],[[],["result",4]],[[],["result",4]],[[],["result",4]],[[],["result",4]],[[],["typeid",3]],[[],["typeid",3]],[[["primarycolor",4]],["secondcolor",4]]],"p":[[4,"PrimaryColor"],[4,"SecondColor"]]}\
+}');
+if (window.initSearch) {window.initSearch(searchIndex)};
