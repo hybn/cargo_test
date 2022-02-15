@@ -22,7 +22,7 @@ pub mod kinds {
 }
 
 pub mod utils {
-    use crate::kinds::{PrimaryColor, SecondColor};
+    use crate::SecondColor;
 
     pub fn mix() -> SecondColor {
         SecondColor::Orange
